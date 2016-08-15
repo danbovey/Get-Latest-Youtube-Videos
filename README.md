@@ -1,3 +1,8 @@
+Deprecated 
+----------
+
+This uses v2 of the YouTube Data API which has been officially deprecated as of March 4, 2014.
+
 Get-Latest-Youtube-Videos
 =========================
 
